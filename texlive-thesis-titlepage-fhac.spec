@@ -63,3 +63,16 @@ Aachen (Standort Juelich).
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.1-2
++ Revision: 756830
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 0.1-1
++ Revision: 719727
+- texlive-thesis-titlepage-fhac
+- texlive-thesis-titlepage-fhac
+- texlive-thesis-titlepage-fhac
+
