@@ -6,7 +6,7 @@
 # catalog-version 0.1
 Name:		texlive-thesis-titlepage-fhac
 Version:	0.1
-Release:	3
+Release:	4
 Summary:	Little style to create a standard titlepage for diploma thesis
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thesis-titlepage-fhAC
